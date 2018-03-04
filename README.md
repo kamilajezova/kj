@@ -1,1 +1,3 @@
 # kj
+založeno, protože tu v repozitáøi lze provádìt snadno zmìny a ke starším verzím se lze snadno dostat, dokonce i v pøípadech textových editorù. Novìjší verzovací systémy (kupø. systém git) umožòují, aby každý soubor byl aktuální ve více podobách, tzv. vìtvích (anglicky branches), souèasnì. Vìtev je potom vlastností (parametrem) každé operace commit.
+A také založeno abych splnila tento úkol, nepøicházela o body a bùhvíco ještì. 
